@@ -1,6 +1,6 @@
 const users = [
     {  
-    Id: 1,
+    id: 1,
     firstName: 'Galystan',
     lastName: 'Ambiya',
     telephone: '0755667788',
@@ -8,7 +8,7 @@ const users = [
     hobbies: 'Climbing',
     },
     {
-    Id: 2,
+    id: 2,
     firstName: 'Jeihan',
     lastName: 'Sukmawati',
     telephone: '987654321',
@@ -16,7 +16,7 @@ const users = [
     hobbies: 'Reading',
     },
     {
-    Id: 3,  
+    id: 3,  
     firstName: 'Runi ',
     lastName: 'Fuadillah',
     telephone: '0795038593',
@@ -24,7 +24,7 @@ const users = [
     hobbies: 'Travelling',
     },
     {
-    Id: 4,
+    id: 4,
     firstName: 'Nico',
     lastName: 'Pfizer',
     telephone: '0675689033',
